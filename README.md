@@ -26,12 +26,6 @@
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1vnWybkOLbY9KRDw1U3cJhK2Wc9HsVHuT/view?usp=sharing" target="_blank">
-    <img src="https://renovpn.com/assets/images/btn/en/android-apk.png" alt="Download APK" width="260" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ **Built With**
@@ -62,12 +56,13 @@
 
 ---
 
-## 📝 **Overview**
 <p align="center">
   <a href="https://drive.google.com/file/d/1vnWybkOLbY9KRDw1U3cJhK2Wc9HsVHuT/view?usp=sharing" target="_blank">
     <img src="https://renovpn.com/assets/images/btn/en/android-apk.png" alt="Download APK" width="260" />
   </a>
 </p>
+
+## 📝 **Overview**
 AlphaTask is a modern, offline-first task management app with built-in AI sentiment analysis. Designed for productivity enthusiasts and developers, it leverages Flutter, SQLite, and TensorFlow Lite to deliver a seamless, cross-platform experience with a futuristic, glassmorphism-inspired UI.
 
 ---
