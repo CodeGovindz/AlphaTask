@@ -99,7 +99,7 @@ AlphaTask is a modern, offline-first task management app with built-in AI sentim
    ```
 4. **Build release APK:**
    ```sh
-   flutter build apk --release --split-per-abi
+   flutter build apk --release
    ```
 
 ---
