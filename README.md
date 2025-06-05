@@ -1,15 +1,29 @@
-# 🚀 **AlphaTask**
+<h1 align="center">ALPHATASK</h1>
 
-Empower your productivity, streamline your task management.
+<p align="center"><em>Empower your productivity, streamline your task management.</em></p>
 
 <p align="center">
-  <img src="assets/images/icon.png" alt="AlphaTask Logo" width="120" />
+  <img src="https://img.shields.io/github/last-commit/CodeGovindz/AlphaTask?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/CodeGovindz/AlphaTask?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/CodeGovindz/AlphaTask?style=flat-square" />
 </p>
 
+<p align="center"><em>Built with the tools and technologies:</em></p>
+
 <p align="center">
-  <b>Last Commit:</b> ![GitHub last commit](https://img.shields.io/github/last-commit/CodeGovindz/AlphaTask)
-  <b>Top Language:</b> ![GitHub top language](https://img.shields.io/github/languages/top/CodeGovindz/AlphaTask)
-  <b>Languages Used:</b> ![GitHub language count](https://img.shields.io/github/languages/count/CodeGovindz/AlphaTask)
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Org-77AA99?style=for-the-badge&logo=org&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-006699?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
 ---
